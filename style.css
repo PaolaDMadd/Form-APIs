@@ -1,0 +1,8 @@
+
+*{
+    box-sizing: border-box;
+}
+#imageContainer{
+    height: auto;
+    width: 50%;  
+}
